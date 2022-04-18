@@ -17,7 +17,7 @@ stop
 ## Program:
 ```c#
 using System;
-namespace vijay
+namespace Sherwin
 {
     class program
     {
@@ -46,6 +46,6 @@ namespace vijay
 }
 ```
 ## Output:
-![Screenshot (43)](https://user-images.githubusercontent.com/75235488/163834354-6061aa5f-a7cc-4276-bc1d-8cfc270925fb.png)
+![image](https://user-images.githubusercontent.com/75235128/163839302-6a5a2fda-dac6-4f84-8cc2-a1cbf27c048d.png)
 ## Result:
 Thus the C# program to grade the marks is executed successfully.
